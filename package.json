@@ -1,0 +1,33 @@
+{
+  "name": "devscriptwiz",
+  "version": "1.0.2",
+  "description": "devscriptwiz",
+  "type": "module",
+  "main": "devscriptwiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swaramcnabbg8/devscriptwiz"
+  },
+  "website": "https://github.com/swaramcnabbg8/devscriptwiz.git",
+  "keywords": [
+    "devscriptwiz"
+  ],
+  "author": "swaramcnabbg8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaramcnabbg8/devscriptwiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/swaramcnabbg8/devscriptwiz#readme",
+  "dependencies": {
+    "devcodementor": "1.0.2",
+    "programdevcraft": "1.0.2",
+    "codecraftsensei": "1.0.2"
+  }
+}
